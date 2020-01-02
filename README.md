@@ -1,1 +1,2 @@
-# Simplewebsite
+# Simplestaticwebsite
+using html and css
